@@ -1,0 +1,10 @@
+﻿using System;
+
+class SquareOfNumber
+{
+    static void Main()
+    {
+        Console.WriteLine(Math.Pow(12345,2));
+    }
+}
+
